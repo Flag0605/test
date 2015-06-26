@@ -1,2 +1,10 @@
 昨天看了一场球赛，恒大VS国安   0:0
 今天公司进行实验室技术方案宣讲，0626.
+
+Windows环境下解决冲突！
+冲突1
+冲突2
+first conflict.
+second conflict.
+third conflict
+modified a bug 
